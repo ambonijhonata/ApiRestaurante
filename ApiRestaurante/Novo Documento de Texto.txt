@@ -1,0 +1,6 @@
+dependencias: mongoose, cors, express, nodemon
+
+
+mongodb
+jhonata01amboni
+uYvDhr5dYkgTvFCw
